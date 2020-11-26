@@ -1,16 +1,16 @@
-title:            Jordi Pont-Tuset's site
+title:            Henry Clausen's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //hc2116.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
-disqus_shortname: jponttuset
+#https://hc2116.github.io
+disqus_shortname: hc2116
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
+  name:           Henry Clausen
+  avatar:         Henry.jpg
+  bio:            I am a PhD-student at University of Edinurgh. I am currently working on intelligent anomaly-detection methods for intrusion detection, and my areas of interest include deep learning, data science, as well as vulnerability and intrusion detection. In my freetime, I like to challenge myself physically in sports such as boxing, weight lifting, or swimming. My passion is electronic music, where I attempt to find my own style; https://soundcloud.com/henry-clausen
   email:          jponttuset@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jponttuset
