@@ -11,7 +11,7 @@ I am a PhD-student at University of Edinurgh. I am currently working on intellig
 
 <br />
 
-My concern for our planet drives me to be an environmental activist with Greenpeace, where I coordinate and lead the local 
+My concern for our planet drives me to be an environmental activist with Greenpeace, where I coordinate and lead the local Greenpeace group in Edinburgh.
 
 <br />
 
