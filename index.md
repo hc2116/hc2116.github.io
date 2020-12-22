@@ -11,5 +11,9 @@ I am a PhD-student at University of Edinurgh. I am currently working on intellig
 
 <br />
 
-In my freetime, I like to challenge myself physically in sports such as boxing, weight lifting, or swimming. My passion is electronic music, where I attempt to find my own style. You can find me on <a href="https://soundcloud.com/henry-clausen" target="_bank">SoundCloud</a>.
+My concern for our planet drives me to be an environmental activist with Greenpeace, where I coordinate and lead the local 
+
+<br />
+
+In my freetime, I like to challenge myself physically in sports such as boxing, sailing, or weight lifting. My passion is electronic music, where I attempt to find my own style. You can find me on <a href="https://soundcloud.com/henry-clausen" target="_bank">SoundCloud</a>.
 
