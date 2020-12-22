@@ -4,7 +4,7 @@ title: About me
 description: "Henry Clausen's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: sailing2.jpg
 ---
 
 I am a PhD-student at University of Edinurgh. I am currently working on intelligent anomaly-detection methods for intrusion detection, and my areas of interest include deep learning, data science, as well as vulnerability and intrusion detection. 
