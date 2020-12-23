@@ -7,5 +7,5 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also download my <a href="/docs/CV_Henry_Clausen.pdf" target="_blank">full CV</a>.
+You can also download my [full CV](docs/CV_Henry_Clausen.pdf).
 
