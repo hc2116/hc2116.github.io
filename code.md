@@ -18,8 +18,8 @@ In this project, we wanted to explore how much we can leverage common sequential
 ![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)| 
 
 <p float="left">
-  <img src="/Bi_LSTM/XSSdist3.png" width="200" />
-  <img src="/LSTM_design_bi2.jpg" width="100" /> 
+  <img src="images/Bi_LSTM/XSSdist3.png" width="200" />
+  <img src="images/LSTM_design_bi2.jpg" width="100" /> 
 </p>
 
 
@@ -27,8 +27,8 @@ For this, we built a bidirectional LSTM-network with $\\approx$ 10.000 parameter
 
 
 <p float="left">
-  <img src="/Bi_LSTM/CICplots1-1.png" width="200" />
-  <img src="/CICplots2-1.png" width="200" /> 
+  <img src="images/Bi_LSTM/CICplots1-1.png" width="200" />
+  <img src="images/CICplots2-1.png" width="200" /> 
 </p>
 
 
