@@ -23,7 +23,7 @@ In this project, we wanted to explore how much we can leverage common sequential
 </p>
 
 
-For this, we built a bidirectional LSTM-network with $\approx$ 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
+For this, we built a bidirectional LSTM-network with $\\approx$ 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
 
 
 <p float="left">
