@@ -21,7 +21,7 @@ For this, we built a bidirectional LSTM-network with $\approx$ 10.000 parameters
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](images/Bi_LSTM/CICplots1-1.pdf)  |  ![](images/Bi_LSTM/CICplots1-1.pdf)
+![](images/Bi_LSTM/CICplots1-1.png)  |  ![](images/Bi_LSTM/CICplots1-1.png)
 
 
 * [**ConnectionSeq-to-connectionSeq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
