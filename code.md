@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: Some Code I've Written
+title: Projects I have been
 tags: [code]
 modified: 3-10-2014
 comments: false
@@ -11,6 +11,15 @@ comments: false
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
 ### Research
+
+* [**Bidirectional LSTMs for access attack detection**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+In this project, we wanted to explore how much we can leverage common sequential network flow structures to create a model that detects low-volume access attacks. The underlying idea is that flow sequences corresponding to individual actions such as web-browsing follow very strong and repetitive structures, such as small HTTP-flows normally being followed by larger HTTP-flows.
+Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
+
+![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)
+
+State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+
 
 * [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
