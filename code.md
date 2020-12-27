@@ -19,7 +19,7 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 <p float="left">
   <img src="images/Bi_LSTM/XSSdist3.png" width="500" />
-  <img src="images/LSTM_design_bi2.jpg" width="30" /> 
+  <img src="images/Bi_LSTM/LSTM_design_bi2.jpg" width="30" /> 
 </p>
 
 
@@ -28,7 +28,7 @@ For this, we built a bidirectional LSTM-network with $\\approx$ 10.000 parameter
 
 <p float="left">
   <img src="images/Bi_LSTM/CICplots1-1.png" width="400" />
-  <img src="images/CICplots2-1.png" width="400" /> 
+  <img src="images/Bi_LSTM/CICplots2-1.png" width="400" /> 
 </p>
 
 
