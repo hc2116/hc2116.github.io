@@ -19,8 +19,8 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 <p float="center">
 <!--  <img src="/images/Bi_LSTM/XSSdist3.png" width="500" /> -->
-  <img src="/images/Bi_LSTM/Seq.png" width="250" class="center"/> 
-  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="400" class="center"/> 
+  <img src="/images/Bi_LSTM/Seq.png" width="230" class="center"/> 
+  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="390" class="center"/> 
 </p>
 
 
