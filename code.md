@@ -33,7 +33,7 @@ For this, we built a bidirectional LSTM-network with $$\\approx$$ 10.000 paramet
 </p>
 
 
-* [**ConnectionSeq-to-connectionSeq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+* [**Connection Seq-to-connectionSeq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
 
 * [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
