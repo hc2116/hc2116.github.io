@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: Projects I have been
+title: Projects I have been working on
 tags: [code]
 modified: 3-10-2014
 comments: false
@@ -20,11 +20,11 @@ In this project, we wanted to explore how much we can leverage common sequential
 <p float="center">
 <!--  <img src="/images/Bi_LSTM/XSSdist3.png" width="500" /> -->
   <img src="/images/Bi_LSTM/Seq.png" width="220" class="center"/> 
-  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="380" class="center"/> 
+  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" class="center"/> 
 </p>
 
 
-For this, we built a bidirectional LSTM-network with $\\approx$ 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
+For this, we built a bidirectional LSTM-network with $$\\approx$$ 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
 
 
 <p float="left">
