@@ -19,7 +19,7 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 <p float="left">
   <img src="/images/Bi_LSTM/XSSdist3.png" width="500" />
-  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="30" /> 
+  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="300" /> 
 </p>
 
 
