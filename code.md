@@ -18,8 +18,8 @@ In this project, we wanted to explore how much we can leverage common sequential
 ![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)| 
 
 <p float="left">
-  <img src="/images/Bi_LSTM/XSSdist3.png" width="500" />
-  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="300" /> 
+<!--  <img src="/images/Bi_LSTM/XSSdist3.png" width="500" /> -->
+  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="400" /> 
 </p>
 
 
