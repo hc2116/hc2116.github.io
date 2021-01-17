@@ -28,8 +28,8 @@ For this, we built a bidirectional LSTM-network with $$\\approx$$ 10.000 paramet
 
 
 <p float="left">
-  <img src="/images/Bi_LSTM/CICplots1-1.png" width="400" />
-  <img src="/images/Bi_LSTM/CICplots2-1.png" width="400" /> 
+  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" class="center" />
+  <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" class="center"/> 
 </p>
 
 
