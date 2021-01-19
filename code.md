@@ -24,17 +24,14 @@ In this project, we wanted to explore how much we can leverage common sequential
 </p>
 
 
-For this, we built a bidirectional LSTM-network with $$\\approx$$ 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
+For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
+
+  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" class="center" />
+  <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" class="center"/> 
 
 
-<p float="left">
-  <img src="/images/Bi_LSTM/CICplots1-1.png" width="400" />
-  <img src="/images/Bi_LSTM/CICplots2-1.png" width="400" /> 
-</p>
-
-
-* [**ConnectionSeq-to-connectionSeq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+* [**Connection Seq-to-Seq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+Test
 
 * [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
 Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
