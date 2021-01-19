@@ -31,7 +31,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 
 * [**DetGen - Generating controllable traffic micro-structures for model probing**](https://github.com/detlearsom/detgen)<br>
 
-
+Model validation through careful model probing of particular importance in Cyber-Security. DetGen is a tool we build to produce traffic with controllable characteristics such as the specific conducted activity, transmitted data length, or experienced congestion in order to attach ground truth labels describing the traffic's computation origin. We use this tool to examine where machine-learning-based intrusion detection models fail to classify traffic correctly and which traffic structures cause this failing.
 
 <center> 
 <p float="center">
@@ -39,6 +39,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
   <img src="/images/DetGen/Docker_setup_final.png" width="200" /> 
 </p>
 </center>
+
 
 
 
