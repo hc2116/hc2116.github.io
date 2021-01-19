@@ -35,8 +35,8 @@ Model validation through careful model probing of particular importance in Cyber
 
 <center> 
 <p float="center">
-  <img src="/images/DetGen/Eva_Prob.png" width="440" /> 
-  <img src="/images/DetGen/Docker_setup_final.png" width="200" /> 
+  <img src="/images/DetGen/Eva_Prob2.png" width="300" /> 
+  <img src="/images/DetGen/Docker_setup_final.png" width="300" /> 
 </p>
 </center>
 
