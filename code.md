@@ -17,26 +17,19 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 <!-- ![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)| -->
 
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
-
-
+<center> 
 <p float="center">
-<!--  <img src="/images/Bi_LSTM/XSSdist3.png" width="500" /> -->
-  <img src="/images/Bi_LSTM/Seq.png" width="220" class="centerImage"/> 
+< <img src="/images/Bi_LSTM/Seq.png" width="220" class="centerImage"/> 
   <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" class="centerImage"/> 
 </p>
-
+</center>
 
 For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
 
 <center>  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" /> </center>
-  <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" class="centerImage"/> 
+<center> <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" />  </center>
+
+* [**DetGen - Generating controllable traffic micro-structures for model probing**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 
 
 * [**Connection Seq-to-Seq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
