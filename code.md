@@ -19,7 +19,7 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 <center> 
 <p float="center">
-< <img src="/images/Bi_LSTM/Seq.png" width="220" class="centerImage"/> 
+  <img src="/images/Bi_LSTM/Seq.png" width="220" class="centerImage"/> 
   <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" class="centerImage"/> 
 </p>
 </center>
@@ -35,7 +35,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 
 <center> 
 <p float="center">
-< <img src="/images/DetGen/Eva_Prob2.png" width="440" class="centerImage"/> 
+  <img src="/images/DetGen/Eva_Prob2.png" width="440" class="centerImage"/> 
   <img src="/images/DetGen/Docker_setup_final.png.jpg" width="200" /> 
 </p>
 </center>
