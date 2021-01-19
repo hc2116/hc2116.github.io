@@ -32,6 +32,16 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 * [**DetGen - Generating controllable traffic micro-structures for model probing**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 
 
+
+<center> 
+<p float="center">
+< <img src="/images/DetGen/Eva_Prob2.png" width="440" class="centerImage"/> 
+  <img src="/images/DetGen/Docker_setup_final.png.jpg" width="200" /> 
+</p>
+</center>
+
+
+
 * [**Connection Seq-to-Seq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 Test
 
