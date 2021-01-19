@@ -36,7 +36,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 <center> 
 <p float="center">
 < <img src="/images/DetGen/Eva_Prob2.png" width="440" class="centerImage"/> 
-  <img src="/images/DetGen/Docker_setup_final.png.jpg" width="200s" /> 
+  <img src="/images/DetGen/Docker_setup_final.png.jpg" width="200" /> 
 </p>
 </center>
 
