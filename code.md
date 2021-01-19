@@ -29,7 +29,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 <center>  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" /> </center>
 <center> <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" />  </center>
 
-* [**DetGen - Generating controllable traffic micro-structures for model probing**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+* [**DetGen - Generating controllable traffic micro-structures for model probing**](https://github.com/detlearsom/detgen)<br>
 
 
 
