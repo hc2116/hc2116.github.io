@@ -53,7 +53,7 @@ Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope
 
 * [**Stepping-stone detection**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
 <center> 
-<img src="/images/DetGen/DeepCorr.png" width="450" /> 
+<img src="/images/DetGen/DeepCorr.png" width="600" /> 
 </center> 
 
 
