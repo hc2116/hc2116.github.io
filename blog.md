@@ -8,13 +8,10 @@ comments: false
 ---
 
 ### Activism
+Since I was a young boy, I have been interested in nature, the intricate balance of ecosystems, and the effect that my actions have on it. 
+Today, the state of our planet and the developments in our society towards environmental protection frighten me and driven me to be an environmental activist.
 
-[**Bidirectional LSTMs for access attack detection**](https://hc2116.github.io/docs/MLN20.pdf)<br>
-
-
-
-
-<!-- ![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)| -->
+I am currently leading and coordinating the local Greenpeace group in Edinburgh, where campaign on issues such as climate change, ocean and forest protection, or biodiversity conservation.
 
 <center> 
 <p float="center">
