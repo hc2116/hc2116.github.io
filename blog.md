@@ -23,7 +23,7 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 
 
 ### Music
-Music is my passion, and I could not live without it. I enjoy playing piano, and even though I believe my technique stopped progressing years ago, I still find joy in learning to play pieces such as currently Claude Debussy's *Claire de Lune*.
+Music is my passion, and I could not live without it. I enjoy playing piano, and even though I believe my technique stopped progressing years ago, I still find joy in learning to play pieces such as currently Claude Debussy's [*Claire de Lune*](https://www.youtube.com/watch?v=CvFH_6DNRCY).
 
 
 
