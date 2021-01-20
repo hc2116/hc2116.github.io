@@ -57,3 +57,5 @@ Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope
 </center> 
 
 
+* [**QUIC verification**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+tba
