@@ -15,10 +15,12 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 
 <center> 
 <p float="center">
-  <img src="/images/Personal/GP1.jpg" width="420" /> 
-  <img src="/images/Personal/GP2.jpg" width="200" /> 
+  <img src="/images/Personal/GP1.jpg" width="390" /> 
+  <img src="/images/Personal/GP2.jpg" width="230" /> 
 </p>
 </center>
 
 
+
 ### Music
+Music is my passion, and I could not live without it. I enjoy playing piano, and even though I believe my technique stopped progressing years ago, I still find joy in learning to play pieces such as currently Claude Debussy's *Claire de Lune*.
