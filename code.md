@@ -31,7 +31,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 
 * [**DetGen - Generating controllable traffic micro-structures for model probing**](https://github.com/detlearsom/detgen)<br>
 
-Model validation through careful model probing of particular importance in Cyber-Security. DetGen is a tool we build to produce traffic with controllable characteristics such as the specific conducted activity, transmitted data length, or experienced congestion in order to attach ground truth labels describing the traffic's computation origin. We use this tool to examine where machine-learning-based intrusion detection models fail to classify traffic correctly and which traffic structures cause this failing.
+Model validation through careful model probing of particular importance in Cyber-Security. DetGen is a tool we build to produce traffic with controllable characteristics such as the specific conducted activity, transmitted data length, or experienced congestion in order to attach ground truth labels describing the traffic's computation origin. We use this tool to examine where machine-learning-based intrusion detection models fail to classify traffic correctly and which traffic micro-structures cause this failing.
 
 <center> 
 <p float="center">
@@ -40,36 +40,14 @@ Model validation through careful model probing of particular importance in Cyber
 </p>
 </center>
 
+Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope with excessive retransmission sequences, or the coherence of encoder-based traffic projection methods.
 
 
-
-* [**Connection Seq-to-Seq model**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-Test
-
-
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
-
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
-
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
- 
-### Didactical
-
-* [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
-Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
-
-* [**Web Scraping**](http://jponttuset.github.io/deep-learning-scraping/)<br>
-Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
-
-### Web
-
-* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
-Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
-
-* [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
-Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
+<center> 
+<p float="center">
+  <img src="/images/DetGen/LSTM_activation.png" width="400" /> 
+  <img src="/images/DetGen/LSTM_classi.png" width="200" /> 
+</p>
+</center>
 
 
