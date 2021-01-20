@@ -45,9 +45,14 @@ Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope
 
 <center> 
 <p float="center">
-  <img src="/images/DetGen/LSTM_activation.png" width="400" /> 
-  <img src="/images/DetGen/LSTM_classi.png" width="200" /> 
+  <img src="/images/DetGen/LSTM_activation.png" width="350" /> 
+  <img src="/images/DetGen/LSTM_classi.png" width="280" /> 
 </p>
 </center>
 
+
+* [**Stepping-stone detection**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+
+<img src="/images/DetGen/DeepCorr.png" width="450" /> 
+ 
 
