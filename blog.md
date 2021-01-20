@@ -1,8 +1,8 @@
 ---
-layout: post-index
+layout: page
 permalink: /blog/
-title: All Posts
-tagline: A List of Posts
+title: Personal interests
+tagline: Some info on my personal interests
 tags: [blog]
 comments: false
 ---
