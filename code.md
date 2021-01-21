@@ -58,7 +58,7 @@ I implemented a deep convolutional Neural Network, inspired by [*DeepCorr*](http
 </center> 
 
 You can find the PyTorch implementation here:
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fhc2116%2FPhD_project%2Fblob%2Fmaster%2FStepstoneProject%2FConvNet.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on"></script>
+<script src="https://gist.github.com/hc2116/15fcb6ab233b57d004c8aaa154925e27.js"></script>
 
 * [**QUIC verification**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
 tba
