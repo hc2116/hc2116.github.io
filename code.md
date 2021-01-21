@@ -39,7 +39,7 @@ Model validation through careful model probing of particular importance in Cyber
 </p>
 </center>
 
-Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope with excessive retransmission sequences, or the coherence of encoder-based traffic projection methods.
+Some use-cases I examined and am currently publishing examine the inability of a LSTM-traffic-classifier to cope with excessive retransmission sequences, or the coherence of encoder-based traffic projection methods.
 
 
 <center> 
