@@ -15,8 +15,8 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 
 <center> 
 <p float="center">
-  <img src="/images/Personal/GP1.jpg" width="400" /> 
-  <img src="/images/Personal/GP2.jpg" width="230" /> 
+  <img src="/images/Personal/GP1.jpg" width="410" /> 
+  <img src="/images/Personal/GP2.jpg" width="220" /> 
 </p>
 </center>
 
