@@ -50,11 +50,15 @@ Some use-cases I examined are the inability of a LSTM-traffic-classifier to cope
 </center>
 
 
-* [**Stepping-stone detection**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+* [**CNN for stepping-stone flow correlation**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+I implemented a deep convolutional Neural Network, inspired by [*DeepCorr*](https://arxiv.org/abs/1808.07285), to correlate connections in a relayed attack. Results were initially very promising, but unfortunately not robust against evasive chaff perturbations, and I have not found a way to overcome this issue. This lead me to perform and publish an [**evaluation**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf) of several stepping-stone detection methods in the presence of chaff, of which none showed sufficient robustness.
+
 <center> 
 <img src="/images/DetGen/DeepCorr.png" width="600" /> 
 </center> 
 
+
+<script src="https://gist.github.com/hc2116/15fcb6ab233b57d004c8aaa154925e27.js"></script>
 
 * [**QUIC verification**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
 tba
