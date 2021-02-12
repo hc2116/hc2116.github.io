@@ -7,7 +7,7 @@ image:
   feature: titleim.jpg
 ---
 
-I am a PhD-student at University of Edinurgh. I am currently working on intelligent anomaly-detection methods for intrusion detection, and my areas of interest include deep learning, data science, as well as vulnerability and intrusion detection. 
+I am a researcher at the University of Edinburgh. My main focus lies on intelligent anomaly-detection methods for intrusion detection, and my areas of interest include deep learning, data science, as well as vulnerability and intrusion detection. 
 
 <br />
 
