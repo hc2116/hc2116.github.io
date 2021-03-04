@@ -43,7 +43,7 @@ I am very active in the production of electronic music, where I have shared the 
 
 <center> 
 <p float="center">
-<img src="/images/Personal/WL.jpeg" width="300" /> 
+<img src="/images/Personal/WL.jpeg" width="310" /> 
 <img src="/images/Personal/JJ.jpg" width="300" /> 
 </p>
 </center>
