@@ -49,7 +49,7 @@ I am very active in the production of electronic music, where I have shared the 
 </center>
 <center> 
 <p float="center">
- <img src="/images/Personal/JJ.jpg" width="300" /> 
+ <img src="/images/Personal/JJ-gif.gif" width="300" /> 
 </p>
 </center>
 <iframe height='454' width='280' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74922641/latest-rides/a939b78870d1a73841854d6e8f8eb99c46fa4f06'></iframe>
