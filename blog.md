@@ -22,6 +22,8 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 
 
 <style>
+
+
 * {
   box-sizing: border-box;
 }
@@ -32,7 +34,7 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
   padding: 5px;
 }
 
-.img-container {
+.img-container2 {
   float: left;
   width: 37%;
   padding: 5px;
