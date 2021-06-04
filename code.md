@@ -19,14 +19,10 @@ In this project, we want to explore how much we can leverage common sequential n
   display: inline-block;
 }
 
-<center> 
-<p float="center">
 <figure class="left"><center>  <img src="/images/Bi_LSTM/Seq.png" width="220" /> 
 <figcaption> Example input sequence </figcaption> </center></figure>
 <figure  class="right"><center>  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" /> 
 <figcaption> Model architecture </figcaption> </center></figure>  
-</p>
-</center>
 
 For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
 
