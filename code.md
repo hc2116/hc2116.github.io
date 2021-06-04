@@ -27,7 +27,7 @@ For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters t
 
 <figure>
 <center> <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" />  </center>
-  <figcaption>Detection results - AUC-curves.</figcaption>
+  <center> <figcaption> Our detection results - AUC-curves.</figcaption> </center>
 </figure>
 <!--<center>  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" /> </center> -->
 
