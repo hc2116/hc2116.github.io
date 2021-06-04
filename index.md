@@ -15,5 +15,5 @@ My concern for our planet drives me to be an environmental activist with Greenpe
 
 <br />
 
-In my freetime, I like to challenge myself physically in sports such as boxing, sailing, or weight lifting. My passion is electronic music, where I attempt to find my own style. You can find me on <a href="https://soundcloud.com/henry-clausen" target="_bank">SoundCloud</a>.
+In my freetime, I like to challenge myself physically in sports such as Jiu-Jitsu, sailing, or running. My passion is electronic music, where I attempt to find my own style. You can find me on <a href="https://soundcloud.com/henry-clausen" target="_bank">SoundCloud</a>.
 

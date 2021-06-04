@@ -72,7 +72,7 @@ I am very active in the production of electronic music, where I have shared the 
 
 ### Sports
 
-I am a very active person and depend on physical activity to balance my senses. I grew up in a sailing family and tremendously enjoy being on the water, both on large and 
+I am a very active person and depend on physical activity to balance my senses. I grew up in a sailing family and tremendously enjoy being on the water. Besides that, I exhaust and enjoy myself during Jiu-Jitsu training and on my own while running or weightlifting.
 
 <div class="clearfix">
 <div class="img-container3">
@@ -90,13 +90,13 @@ I am a very active person and depend on physical activity to balance my senses. 
 <div class="clearfix">
 <div class="img-container3">
 <figure class="left"><center>
-<img src="/images/Personal/WL.jpeg" width="100%" /> 
-<figcaption> My weightlifting training. </figcaption> </center></figure>
+<img src="/images/Personal/JJ.jpg" width="100%" /> 
+<figcaption> Me and my Jiu-Jitsu group at Imperial college. </figcaption> </center></figure>
 </div>
 <div class="img-container3">
 <figure class="left"><center>
-<img src="/images/Personal/JJ.jpg" width="100%" /> 
-<figcaption> Me and my Jiu-Jitsu group at Imperial college. </figcaption> </center></figure>
+<img src="/images/Personal/WL.jpeg" width="100%" /> 
+<figcaption> My weightlifting training. </figcaption> </center></figure>
 </div>
 </div>
 
