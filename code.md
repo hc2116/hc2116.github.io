@@ -12,7 +12,7 @@ comments: false
 
 
 ### [Bidirectional LSTMs for access attack detection](https://hc2116.github.io/docs/MLN20.pdf)<br>
-In this project, we wanted to explore how much we can leverage common sequential network flow structures to create a model that detects low-volume access attacks. The underlying idea is that flow sequences corresponding to individual actions such as web-browsing follow very strong and repetitive structures, such as small HTTP-flows normally being followed by larger HTTP-flows.
+In this project, we want to explore how much we can leverage common sequential network flow structures to create a model that detects low-volume access attacks. The underlying idea is that flow sequences corresponding to individual actions such as web-browsing follow very strong and repetitive structures, such as small HTTP-flows normally being followed by larger HTTP-flows.
 
 <!-- ![Size distribution of regular HTTP-flows and those immediately subceeding a small HTTP-flow.](images/Bi_LSTM/XSSdist3.png)| -->
 
@@ -25,8 +25,11 @@ In this project, we wanted to explore how much we can leverage common sequential
 
 For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
 
-<center>  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" /> </center>
+<figure>
 <center> <img src="/images/Bi_LSTM/CICplots2-1.png" width="500" />  </center>
+  <figcaption>Detection results - AUC-curves.</figcaption>
+</figure>
+<!--<center>  <img src="/images/Bi_LSTM/CICplots1-1.png" width="500" /> </center> -->
 
 You can find a corresponding implementation here:
 <script src="https://gist.github.com/hc2116/b7bd37d76b892938d32521b484817e2c.js"></script>
