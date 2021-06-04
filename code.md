@@ -36,7 +36,7 @@ You can find a corresponding implementation here:
 <script src="https://gist.github.com/hc2116/b7bd37d76b892938d32521b484817e2c.js"></script>
 
 
-* [**DetGen - Generating controllable traffic micro-structures for model probing**](https://github.com/detlearsom/detgen)<br>
+### [DetGen - Generating controllable traffic micro-structures for model probing](https://github.com/detlearsom/detgen)<br>
 Model validation through careful model probing of particular importance in Cyber-Security. DetGen is a tool we build to produce traffic with controllable characteristics such as the specific conducted activity, transmitted data length, or experienced congestion in order to attach ground truth labels describing the traffic's computation origin. We use this tool to examine where machine-learning-based intrusion detection models fail to classify traffic correctly and which traffic micro-structures cause this failing.
 
 <center> 
@@ -57,7 +57,7 @@ Some use-cases I examined and am currently publishing examine the inability of a
 </center>
 
 
-* [**CNN for stepping-stone flow correlation**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+### [CNN for stepping-stone flow correlation](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
 I implemented a deep convolutional Neural Network, inspired by [*DeepCorr*](https://arxiv.org/abs/1808.07285), to correlate connections in a relayed attack. Results were initially very promising, but unfortunately not robust against evasive chaff perturbations, and I have not found a way to overcome this issue. This lead me to perform and publish an [**evaluation**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf) of several stepping-stone detection methods in the presence of chaff, of which none showed sufficient robustness.
 
 <center> 
@@ -67,5 +67,5 @@ I implemented a deep convolutional Neural Network, inspired by [*DeepCorr*](http
 You can find the PyTorch implementation here:
 <script src="https://gist.github.com/hc2116/15fcb6ab233b57d004c8aaa154925e27.js"></script>
 
-* [**QUIC verification**](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
+### [QUIC verification](https://hc2116.github.io/docs/EvadingStepping-StoneDetection.pdf)<br>
 tba
