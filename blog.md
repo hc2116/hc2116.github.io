@@ -22,7 +22,7 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 
 
 <style>
-
+div.content { width: 1300px }
 
 * {
   box-sizing: border-box;
