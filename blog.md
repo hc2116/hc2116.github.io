@@ -71,6 +71,22 @@ I am very active in the production of electronic music, where I have shared the 
 
 
 ### Sports
+
+
+
+<div class="clearfix">
+<div class="img-container3">
+<figure class="left"><center>
+<img src="/images/sailing_old.jpg" width="100%" /> 
+<figcaption> Our crew during the Flensburg-Kiel yellow band race. </figcaption> </center></figure>
+</div>
+<div class="img-container3">
+<figure class="left"><center>
+<img src="/images/sailing.jpg" width="100%" /> 
+<figcaption> </figcaption> </center></figure>
+</div>
+</div>
+
 <div class="clearfix">
 <div class="img-container3">
 <figure class="left"><center>
