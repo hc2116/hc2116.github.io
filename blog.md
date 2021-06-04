@@ -72,7 +72,7 @@ I am very active in the production of electronic music, where I have shared the 
 
 ### Sports
 
-
+I am a very active person and depend on physical activity to balance my senses. I grew up in a sailing family and tremendously enjoy being on the water, both on large and 
 
 <div class="clearfix">
 <div class="img-container3">
@@ -82,8 +82,8 @@ I am very active in the production of electronic music, where I have shared the 
 </div>
 <div class="img-container3">
 <figure class="left"><center>
-<img src="/images/sailing.jpg" width="100%" /> 
-<figcaption> </figcaption> </center></figure>
+<img src="/images/49er" width="100%" /> 
+<figcaption> Sailing the 49er class on lake Garda. </figcaption> </center></figure>
 </div>
 </div>
 
