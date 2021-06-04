@@ -18,8 +18,10 @@ In this project, we want to explore how much we can leverage common sequential n
 
 <center> 
 <p float="center">
-  <img src="/images/Bi_LSTM/Seq.png" width="220" /> 
-  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" /> 
+<figure><center>  <img src="/images/Bi_LSTM/Seq.png" width="220" /> 
+<figcaption> Example input sequence </figcaption> </center></figure>
+<figure><center>  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" /> 
+<figcaption> Model architecture </figcaption> </center></figure>  
 </p>
 </center>
 
