@@ -82,7 +82,7 @@ I am a very active person and depend on physical activity to balance my senses. 
 </div>
 <div class="img-container3">
 <figure class="left"><center>
-<img src="/images/49er" width="100%" /> 
+<img src="/images/49er.jpg" width="100%" /> 
 <figcaption> Sailing the 49er class on lake Garda. </figcaption> </center></figure>
 </div>
 </div>
