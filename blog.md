@@ -58,6 +58,7 @@ I am very active in the production of electronic music, where I have shared the 
 <div class="img-container2">
   <img src="/images/Personal/DJ.jpg" width="100%" /> 
 </div>
+</div>
 
 
 
