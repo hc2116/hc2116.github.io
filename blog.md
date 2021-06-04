@@ -95,10 +95,5 @@ I am very active in the production of electronic music, where I have shared the 
 </div>
 </div>
 
-<center> 
-<p float="center">
- <img src="/images/Personal/JJ-gif.gif" width="300" /> 
-</p>
-</center>
 
 
