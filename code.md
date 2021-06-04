@@ -14,14 +14,33 @@ comments: false
 ### [Bidirectional LSTMs for access attack detection](https://hc2116.github.io/docs/MLN20.pdf)<br>
 In this project, we want to explore how much we can leverage common sequential network flow structures to create a model that detects low-volume access attacks. The underlying idea is that flow sequences corresponding to individual actions such as web-browsing follow very strong and repetitive structures, such as small HTTP-flows normally being followed by larger HTTP-flows.
 
+<style>
+.line{  /* Describes only positioning behaviour */
+    display: block; /* Not important, but helpful in this case */
+    clear: both;    /* Not important, but helpful in this case */
+}
 
+.line__figure{ /* Describes only positioning behaviour */
+    float:left;
+}
+
+.figure{ /* Describes only view representation. */
+    display: block; /* Not important, but helpful in this case */
+}
+
+.figure__image{
+    background: lightgray;
+    width: 400px;
+    height: 300px;
+}
 .left, .right {
   display: inline-block;
 }
+</style>
 
 <figure class="left"><center>  <img src="/images/Bi_LSTM/Seq.png" width="220" />
 <figcaption> Example input sequence </figcaption> </center></figure>
-<figure  class="right"><center>  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="170" /> 
+<figure  class="right"><center>  <img src="/images/Bi_LSTM/LSTM_design_bi2.jpg" width="370" /> 
 <figcaption> Model architecture </figcaption> </center></figure>  
 
 For this, we built a bidirectional LSTM-network with &#8776; 10.000 parameters that learns a language model of flow sequences, with flows acting as word tokens according to their destination port, direction, and size. Our consideration is that these structures can help detect low-volume attacks such as Heartbleed or SQL-injections which deviate from these structures by exploiting vulnerabilities. 
