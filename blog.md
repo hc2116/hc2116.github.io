@@ -84,11 +84,21 @@ I am very active in the production of electronic music, where I have shared the 
 </div>
 </div>
 
+<div class="clearfix">
+<div class="img-container">
+<figure class="left"><center>
+<img src="/images/Personal/JJ-gif.gif" width="100%" /> 
+<figcaption> Me beating my sensei in a rolling-medley. </figcaption> </center></figure>
+</div>
+<div class="img-container2">
+<iframe height='600' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74922641/latest-rides/a939b78870d1a73841854d6e8f8eb99c46fa4f06'></iframe>
+</div>
+</div>
+
 <center> 
 <p float="center">
  <img src="/images/Personal/JJ-gif.gif" width="300" /> 
 </p>
 </center>
 
-<iframe height='454' width='280' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74922641/latest-rides/a939b78870d1a73841854d6e8f8eb99c46fa4f06'></iframe>
 
