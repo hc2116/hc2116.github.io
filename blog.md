@@ -21,22 +21,38 @@ I am currently leading and coordinating the local Greenpeace group in Edinburgh,
 </center>
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 48.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
 ### Music
 Music is my passion, and I could not live without it. I enjoy playing piano, and even though I believe my technique stopped progressing years ago, I still find joy in learning to play pieces such as currently Claude Debussy's [*Claire de Lune*](https://www.youtube.com/watch?v=CvFH_6DNRCY).
 
 I am very active in the production of electronic music, where I have shared the stage with peeps such as [**Sam Feldt**](https://www.facebook.com/officialsamfeldt) or [**Diego Krause**](https://www.facebook.com/diegokrause). If you want to hear more, check out my [**SoundCloud-Page**](https://soundcloud.com/henry-clausen).
 
-<iframe width="400" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/819578764&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/henry-clausen" title="Henry Clausen" target="_blank" style="color: #cccccc; text-decoration: none;">Henry Clausen</a> · <a href="https://soundcloud.com/henry-clausen/quarantine-summermix" title="Quarantine Summermix" target="_blank" style="color: #cccccc; text-decoration: none;">Quarantine Summermix</a></div>
-
-<iframe width="400" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/215257703&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/henry-clausen" title="Henry Clausen" target="_blank" style="color: #cccccc; text-decoration: none;">Henry Clausen</a> · <a href="https://soundcloud.com/henry-clausen/cobblestone-techno-3" title="Cobblestone Techno 3" target="_blank" style="color: #cccccc; text-decoration: none;">Cobblestone Techno 3</a></div>
-
-
-<center> 
-<p float="center">
+<div class="clearfix">
+<div class="img-container">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/819578764&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/henry-clausen" title="Henry Clausen" target="_blank" style="color: #cccccc; text-decoration: none;">Henry Clausen</a> · <a href="https://soundcloud.com/henry-clausen/quarantine-summermix" title="Quarantine Summermix" target="_blank" style="color: #cccccc; text-decoration: none;">Quarantine Summermix</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/215257703&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/henry-clausen" title="Henry Clausen" target="_blank" style="color: #cccccc; text-decoration: none;">Henry Clausen</a> · <a href="https://soundcloud.com/henry-clausen/cobblestone-techno-3" title="Cobblestone Techno 3" target="_blank" style="color: #cccccc; text-decoration: none;">Cobblestone Techno 3</a></div>
+</div>
+<div class="img-container">
   <img src="/images/Personal/DJ.jpg" width="200" /> 
-</p>
-</center>
+</div>
+
 
 
 ### Sports
