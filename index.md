@@ -7,7 +7,7 @@ image:
   feature: titleim.jpg
 ---
 
-I am a researcher at the University of Edinburgh. My main focus lies on intelligent anomaly-detection methods for intrusion detection, and my areas of interest include deep learning, data science, as well as vulnerability and intrusion detection. 
+I am a PhD-graduate who is specialised in the application of data science and machine learning methods to cyber-security. My background lies in data science, and during my PhD and subsequent research consultation project, I dealt with the challenges of intrusion detection and the corresponding data and developed efficient and adaptable problem-solving skills. 
 
 <br />
 
