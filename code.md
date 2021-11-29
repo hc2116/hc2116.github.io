@@ -95,7 +95,7 @@ For my Master's thesis, I developed a fast and scalable Bayesian model that exte
 
 
 <center>
-<figure class="left"><center> <img src="/images/MMPPsampler/Model.png" width="280" /> 
+<figure class="left"><center> <img src="/images/MMPPsampler/Model.png" width="350" /> 
 <figcaption> Model setup. </figcaption> </center></figure>
 <figure  class="right"><center>  <img src="/images/MMPPsampler/Results.png" width="650" /> 
 <figcaption> Detected activity levels. </figcaption> </center></figure>  
