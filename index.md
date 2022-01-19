@@ -7,7 +7,7 @@ image:
   feature: titleim.jpg
 ---
 
-I am a PhD-graduate who is specialised in the application of data science and machine learning methods to cyber-security. My background lies in data science, and during my PhD and subsequent research consultation project, I dealt with the challenges of intrusion detection and the corresponding data and developed efficient and adaptable problem-solving skills. 
+I am a PhD-graduate who is specialised in the application of data science and machine learning methods to cyber-security. I work as a data scientist for Cloudflare where I build API security systems. My background lies in data science, and during my PhD and subsequent research consultation project, I dealt with the challenges of intrusion detection and the corresponding data and developed efficient and adaptable problem-solving skills. 
 
 <br />
 
